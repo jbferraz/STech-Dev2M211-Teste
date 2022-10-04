@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-20T14:39:13Z" name="MTeste" finished-at="2022-05-20T14:39:14Z" duration-ms="1168">
+    <groups>
+    </groups>
+    <test started-at="2022-05-20T14:39:13Z" name="TestNG tests" finished-at="2022-05-20T14:39:13Z" duration-ms="216">
+      <class name="mteste.CalculadoraNGTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="setUpClass" finished-at="2022-05-20T11:39:13Z" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="setUpMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testAreaQ()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="testAreaQ" finished-at="2022-05-20T11:39:13Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAreaQ -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="tearDownMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="setUpMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testDiv()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="testDiv" finished-at="2022-05-20T11:39:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDiv -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="tearDownMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="setUpMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testExp()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="testExp" finished-at="2022-05-20T11:39:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExp -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="tearDownMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="setUpMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testNumPar()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="testNumPar" finished-at="2022-05-20T11:39:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumPar -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="setUpMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="tearDownMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="testRaiz()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="testRaiz" finished-at="2022-05-20T11:39:13Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRaiz -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="tearDownMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="setUpMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testRaizCub()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="testRaizCub" finished-at="2022-05-20T11:39:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRaizCub -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="tearDownMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="testSoma()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="testSoma" finished-at="2022-05-20T11:39:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSoma -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="setUpMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="tearDownMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="setUpMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testSub()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="testSub" finished-at="2022-05-20T11:39:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSub -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="tearDownMethod" finished-at="2022-05-20T11:39:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:mteste.CalculadoraNGTest@6591f517]" started-at="2022-05-20T11:39:13Z" name="tearDownClass" finished-at="2022-05-20T11:39:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- mteste.CalculadoraNGTest -->
+    </test> <!-- TestNG tests -->
+    <test started-at="2022-05-20T14:39:14Z" name="mteste.CalculadoraTest" finished-at="2022-05-20T14:39:14Z" duration-ms="453">
+      <class name="mteste.CalculadoraTest">
+        <test-method signature="testDiv()[pri:0, instance:testDiv(mteste.CalculadoraTest)]" started-at="2022-05-20T11:39:14Z" name="testDiv" finished-at="2022-05-20T11:39:14Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDiv -->
+        <test-method signature="testExp()[pri:0, instance:testExp(mteste.CalculadoraTest)]" started-at="2022-05-20T11:39:14Z" name="testExp" finished-at="2022-05-20T11:39:14Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExp -->
+        <test-method signature="testSub()[pri:0, instance:testSub(mteste.CalculadoraTest)]" started-at="2022-05-20T11:39:14Z" name="testSub" finished-at="2022-05-20T11:39:14Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSub -->
+        <test-method signature="testAreaQ()[pri:0, instance:testAreaQ(mteste.CalculadoraTest)]" started-at="2022-05-20T11:39:14Z" name="testAreaQ" finished-at="2022-05-20T11:39:14Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAreaQ -->
+        <test-method signature="testMult()[pri:0, instance:testMult(mteste.CalculadoraTest)]" started-at="2022-05-20T11:39:14Z" name="testMult" finished-at="2022-05-20T11:39:14Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMult -->
+        <test-method signature="testRaiz()[pri:0, instance:testRaiz(mteste.CalculadoraTest)]" started-at="2022-05-20T11:39:14Z" name="testRaiz" finished-at="2022-05-20T11:39:14Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRaiz -->
+        <test-method signature="testSoma()[pri:0, instance:testSoma(mteste.CalculadoraTest)]" started-at="2022-05-20T11:39:14Z" name="testSoma" finished-at="2022-05-20T11:39:14Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSoma -->
+        <test-method signature="testRaizCub()[pri:0, instance:testRaizCub(mteste.CalculadoraTest)]" started-at="2022-05-20T11:39:14Z" name="testRaizCub" finished-at="2022-05-20T11:39:14Z" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRaizCub -->
+        <test-method signature="testNumPar()[pri:0, instance:testNumPar(mteste.CalculadoraTest)]" started-at="2022-05-20T11:39:14Z" name="testNumPar" finished-at="2022-05-20T11:39:14Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumPar -->
+      </class> <!-- mteste.CalculadoraTest -->
+    </test> <!-- mteste.CalculadoraTest -->
+  </suite> <!-- MTeste -->
+</testng-results>
